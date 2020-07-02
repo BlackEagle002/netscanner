@@ -14,7 +14,7 @@ on debian based distros
 git clone https://github.com/BlackEagle002/netscanner
 cd netscanner
 chmod +x netscanner.py
-sudo python3 netscanner.py
+sudo python3 netscanner.py -h (for help)
 
 
 just make sure that scapy is installed for python 3 or not 
