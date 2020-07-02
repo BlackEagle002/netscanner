@@ -4,7 +4,7 @@
 hello guyz!
  
 i am new in this field 
- this is first program imma gonna uploading on github
+ this is first programme imma gonna uploading on github
 so please, support me and just check it out 
 
 #usage
