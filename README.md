@@ -17,7 +17,7 @@ chmod +x netscanner.py
 sudo python3 netscanner.py -h (for help)
 
 
-just make sure that scapy is installed for python 3 or not 
+just make sure that scapy is innstalled for python 3 or not 
 if not
 
 then type:-
@@ -27,6 +27,6 @@ pip3 install scapy
 
 thanks alot guys. Hope you all will support me 
 
-for further issues with this progeam u can talk with me on instagram
+for further issues regarding programme u can talk with me on instagram
 my username :- @its_me_abhishek002
 
