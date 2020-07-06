@@ -11,7 +11,7 @@ so please, support me and just check it out
 
 on debian based distros
 
-git clone https://github.com/BlackEagle002/netscanner
+git clone https://github.com/M4f1aClow3n/netscanner
 cd netscanner
 chmod +x netscanner.py
 sudo python3 netscanner.py -h (for help)
